@@ -4,5 +4,7 @@ This repository will provide you with python programs to create IOT Demo using p
 2. Plot real-time graph on browser using Bottle web-framework.
 
 Bottle web-framework: https://bottlepy.org/docs/dev/
+
 Sensordroid documentation: https://sites.google.com/view/sensordroid/documentation
+
 YouTube Video tutorial: 
