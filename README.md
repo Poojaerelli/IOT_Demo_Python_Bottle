@@ -7,4 +7,4 @@ Bottle web-framework: https://bottlepy.org/docs/dev/
 
 Sensordroid documentation: https://sites.google.com/view/sensordroid/documentation
 
-YouTube Video tutorial: 
+YouTube Video tutorial: https://youtu.be/dXwgzSXRsQc
